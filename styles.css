@@ -1,4 +1,37 @@
+* {
+    background-color: #854d04;
+    color: #e28306;
+    font-family: "Arial", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 1000;
+}
+
 img.recipe {
     height: auto;
     width: 200px;
+    text-align: center;
+}
+
+ul li,
+ol li,
+p {
+    color: #362002
+}
+
+.homepage-link {
+    color: #3366CC;
+}
+
+.implements {
+    font-size: 300px;
+    color:#e28306;
+}
+
+#quote {
+    color: #e28306;
+    font-weight: bold;
+    text-align: center;
 }
